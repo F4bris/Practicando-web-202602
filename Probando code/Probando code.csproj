@@ -6,6 +6,12 @@
         <RootNamespace>Probando_code</RootNamespace>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <UseAppHost>false</UseAppHost>
+        
     </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Shared\" />
+    </ItemGroup>
 
 </Project>
